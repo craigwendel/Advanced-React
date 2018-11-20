@@ -51,7 +51,6 @@ const Mutations = {
         });
         return user;
     },
-
 };
 
 module.exports = Mutations;
